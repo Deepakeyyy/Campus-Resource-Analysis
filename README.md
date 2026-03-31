@@ -24,3 +24,8 @@ streamlit run app.py
 - The app will warn on **over-capacity** cases where `Actual_Attendance > Capacity`.
 - “Efficiency Score” is computed per scheduled slot record as \(100 \times \frac{\text{Actual Attendance}}{\text{Capacity}}\), capped to 100 for display, with a separate over-capacity warning.
 
+## Future Scope
+
+- AI-based demand prediction
+- Mobile dashboard
+- Integration with real-time sensors
